@@ -11,6 +11,7 @@ int main(void)
 	while (i < 26)
 	{
 		putchar(a[i]);
+		i++;
 	}
 	putchar('\n');
 	return (0);
