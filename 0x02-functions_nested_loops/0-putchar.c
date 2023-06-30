@@ -1,8 +1,8 @@
 #include "main.h"
 /**
- * main - print _putchar
- * is written by mbah
- * Retur: Always 0 for (Success)
+ * main -print _putchar
+ * is written by Lihle
+ * Return: Always 0 for (Success)
  */
 
 int main(void)
