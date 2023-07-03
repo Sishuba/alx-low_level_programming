@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * main -print _putchar
+ * _putchar - print _putchar
  * is written by Lihle
  * Return: Always 0 for (Success)
  */
